@@ -1,19 +1,62 @@
 # W3-SaaS-XRPL-DIFC-LaunchProgram
-Application to XRPL Accelerator - Launch Program (DIFC)
+> Application to XRPL Accelerator - Launch Program (DIFC)
 
 ## W3 SaaS Powered XRPL Applications
 
-### Intrinsic Methods, Carbon Removal Credit Registry on XRPL Mainnet https://registry.intrinsicmethods.com/
-Using Palisade MPC wallets, NFTs for DiDs for Acct identity, Verified Credentials, Project Records, Member Engagement.  Using FTs for Carbon Removal Credits.
-Registry Master Acct: https://xrplexplorer.com/explorer/rfCCioadYy4JnNHrhvv8Ax8tPPW29UK1XS activates others XRPL Accts that are used by the application.
-Ecoproject Master Acct: https://xrplexplorer.com/explorer/rMt2FcZaULujRp946t39141nY1yeFySnNW activates segregated Ecoproject Accts for each reforestation project, and makes trades of issued credits.
-An EcoProject Acct: https://xrplexplorer.com/explorer/rAzPNHTi8ydnARBRDUFVobEHpJ6SmbZqv individual acct of a Ecoproject, holds DiD and project record NFTs, issues Pre-Purchase Agreements(PFMU) and Carbon Removal Credits(FMU)
-User Acct Activator Acct: https://xrplexplorer.com/explorer/rL9hYMFjecB5RZTxNpJ2QomhbhSQpfAEbo this acct sends 20 XRP activate a Users new Palisade MPC in-app wallet, Users don't need to acquire XRP to activate, and 20 XRP provides a buffer some as the amount of FTs/NFTs the User adds to their acct there are enough XRP to cover the needed reserves.
+### 1. Intrinsic Methods - Carbon Removal Credit Registry
+**Website:** [registry.intrinsicmethods.com](https://registry.intrinsicmethods.com/)
 
-### Ray Fuentes, Real World Media, and Token-Gated Content & Events on XRPL Mainnet https://rayfuentes.io/
-Using Xaman wallet, and NFTs for Commemorative Media, Membership Access, and Event Tickets.
-NFT Issuer: https://xrplexplorer.com/en/nft-explorer?issuer=rKCqf8vkeue6dkVuRxe61JRTRYsrWozEEq
+**Features:**
+- Palisade MPC wallets
+- NFTs for:
+  - DiDs (Account identity)
+  - Verified Credentials
+  - Project Records
+  - Member Engagement
+- FTs for Carbon Removal Credits
 
-### DeRE, Fractionalized Real Estate Ownership on XRPL Testnet https://testnet.deredao.com/
-Using Palisade MPC wallets,  NFTs for DiDs, Property Records, and Token-Gated Governance 
+**Key XRPL Accounts:**
+- Registry Master Account:
+  - Address: `rfCCioadYy4JnNHrhvv8Ax8tPPW29UK1XS`
+  - Role: Activates other XRPL accounts used by the application
+  - [View on XRPL Explorer](https://xrplexplorer.com/explorer/rfCCioadYy4JnNHrhvv8Ax8tPPW29UK1XS)
 
+- Ecoproject Master Account:
+  - Address: `rMt2FcZaULujRp946t39141nY1yeFySnNW`
+  - Role: Activates segregated Ecoproject accounts and manages credit trades
+  - [View on XRPL Explorer](https://xrplexplorer.com/explorer/rMt2FcZaULujRp946t39141nY1yeFySnNW)
+
+- EcoProject Account:
+  - Address: `rAzPNHTi8ydnARBRDUFVobEHpJ6SmbZqv`
+  - Role: Individual project account holding DiD, project records, and issues credits
+  - [View on XRPL Explorer](https://xrplexplorer.com/explorer/rAzPNHTi8ydnARBRDUFVobEHpJ6SmbZqv)
+
+- User Account Activator:
+  - Address: `rL9hYMFjecB5RZTxNpJ2QomhbhSQpfAEbo`
+  - Role: Sends 20 XRP to activate new user Palisade MPC wallets
+  - [View on XRPL Explorer](https://xrplexplorer.com/explorer/rL9hYMFjecB5RZTxNpJ2QomhbhSQpfAEbo)
+
+### 2. Ray Fuentes - Real World Media Platform
+**Website:** [rayfuentes.io](https://rayfuentes.io/)
+
+**Features:**
+- Xaman wallet integration
+- NFTs for:
+  - Commemorative Media
+  - Membership Access
+  - Event Tickets
+
+**XRPL Account:**
+- NFT Issuer Account:
+  - Address: `rKCqf8vkeue6dkVuRxe61JRTRYsrWozEEq`
+  - [View NFTs on XRPL Explorer](https://xrplexplorer.com/en/nft-explorer?issuer=rKCqf8vkeue6dkVuRxe61JRTRYsrWozEEq)
+
+### 3. DeRE - Fractionalized Real Estate Ownership
+**Website:** [testnet.deredao.com](https://testnet.deredao.com/)
+
+**Features:**
+- Currently on XRPL Testnet
+- NFTs for:
+  - DiDs
+  - Property Records
+  - Token-Gated Governance
