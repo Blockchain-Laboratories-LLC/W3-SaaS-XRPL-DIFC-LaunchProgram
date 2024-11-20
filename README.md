@@ -59,4 +59,5 @@
 - NFTs for:
   - DiDs
   - Property Records
+- FTs for Fractional Ownership
   - Token-Gated Governance
