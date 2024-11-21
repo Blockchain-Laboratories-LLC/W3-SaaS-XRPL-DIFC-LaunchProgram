@@ -63,3 +63,13 @@ Give your feedback on the process to Register, KYC, Create&Activate MPC Wallet, 
   - Property Records
 - FTs for Fractional Ownership
   - Token-Gated Governance
+
+### 4. Future B2B Clients
+**Our goal is to Whitel-Label W3 SaaS 50 Times by 2026:**
+- We have a database of leads of potential B2B customers, and have some focused solutions for targeted propects
+
+### 5. In-House Ventures Launching Soon
+**Powered by W3 SaaS:**
+- We have a portfolio of domains we will use to launch Web3 Brands(Use Cases) powered by W3 SaaS
+
+**W3 SaaS codebase is proprietary, if selected for the accelorator it can be reviewed by approved parties.**
