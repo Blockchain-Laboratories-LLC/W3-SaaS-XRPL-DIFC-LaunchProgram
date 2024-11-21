@@ -5,6 +5,8 @@
 
 ### 1. Intrinsic Methods - Carbon Removal Credit Registry
 **Website:** [registry.intrinsicmethods.com](https://registry.intrinsicmethods.com/)
+Please try it for yourself, register and create a Palisade MPC wallet, and use PayPal to buy a PFMU from the Pilot Ecoproject.
+Give your feedback on the process to Register, KYC, Create&Activate MPC Wallet, Purchase with PayPal or XRPL DEX
 
 **Features:**
 - Palisade MPC wallets
