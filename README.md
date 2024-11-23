@@ -1,6 +1,11 @@
 # W3-SaaS-XRPL-DIFC-LaunchProgram
 > Application to XRPL Accelerator - Launch Program (DIFC)
 
+## W3 SaaS Technologies Ltd. started in DIFC Innovation Hub November 2023
+Blockchain Laboratories incorporates W3 SaaS in Dubai International Financial Centre (DIFC) to Build Tokenization Platforms for a Better Future
+[https://finance.yahoo.com/news/blockchain-laboratories-incorporates-w3-saas-140000265.html](https://finance.yahoo.com/news/blockchain-laboratories-incorporates-w3-saas-140000265.html)
+And since then has developed a Web3 Software-as-a-Service solution that offers and Tokenization Platform any business or person can use issue, manage, distribute, and custody digital assets. W3 SaaS is design to be White-Labeled for any use case or industry, and fully integrated with the XRPL, MPC Custody, KYC.
+
 ## W3 SaaS Powered XRPL Applications
 
 ### 1. Intrinsic Methods - Carbon Removal Credit Registry
