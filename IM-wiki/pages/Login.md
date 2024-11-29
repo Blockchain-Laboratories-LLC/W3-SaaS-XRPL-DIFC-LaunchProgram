@@ -30,5 +30,4 @@ https://github.com/Blockchain-Laboratories-LLC/IM-Production-Frontend/assets/201
 
 ### Security
   - Auth token - Authentication credentials are maintained in browser cookies for API request authorization
-  - CSRF-Token - Cross-site request forgery protection token is preserved in context for secure API communication
   - Device Fingerprint - Device identification system that restricts simultaneous multi-device access

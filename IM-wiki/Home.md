@@ -2,7 +2,8 @@
 
 Welcome to the Intrinsic Method repository! Here you'll find all source code and documentation for this innovative project.
 
-## Testing Url - https://dev.registry.intrinsicmethods.com/
+## Testing Url - https://test.registry.intrinsicmethods.com/
+## Production Url - https://registry.intrinsicmethods.com/
 ## Overview
 
 The Intrinsic Method platform combines multiple cutting-edge technologies into an integrated solution. Our tech stack includes:
